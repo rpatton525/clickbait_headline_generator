@@ -5,7 +5,7 @@ POSS_PRO = ['Her', 'His', 'Their']
 PERS_PRO = ['She', 'He','They']
 STATES = ['Alabama', 'Arizona', 'Florida', 'Georgia', 'Indiana', 'Kentucky', 'Mississippi', 'Nevada', 'Ohio', 'Oklahoma', 'Texas', 'West Virginia']
 NOUNS = ['Essential Oil', 'Umbrella', 'Plastic Straw', 'Video Game', 'Zero Calorie Sweetener', 'Pet Rock']
-PLACES = ['Home Office', 'Dog Park', 'Fallout Shelter', 'Laundromat', 'Tree House', '4 Star Restaurant', 'Motel 6']
+PLACES = ['Home Office', 'Dog Park', 'Fallout Shelter', 'Laundromat', 'Tree House', '4-Star Restaurant', 'Motel 6']
 WHEN = ['Next Week', 'Tomorrow', 'Immediately', 'In Under 20 Minutes']
 PEOPLE = ['Mother of 12', 'Former Golf Caddy', 'Palentologist', 'Self-Identified Extrovert']
 
@@ -17,7 +17,7 @@ def main():
         print()
 
         while True:
-                print ('How many clickbait headlines should be generated?')
+                print ('How many clickbait headlines should we generate?')
                 response = input('> ')
                 if not response.isdecimal():
                     print('Please enter a number. ')
