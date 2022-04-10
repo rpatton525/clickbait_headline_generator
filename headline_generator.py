@@ -6,7 +6,7 @@ PERS_PRO = ['She', 'He','They']
 STATES = ['Alabama', 'Arizona', 'Florida', 'Georgia', 'Indiana', 'Kentucky', 'Mississippi', 'Nevada', 'Ohio', 'Oklahoma', 'Texas', 'West Virginia']
 NOUNS = ['Essential Oil', 'Umbrella', 'Plastic Straw', 'Video Game', 'Zero Calorie Sweetener', 'Pet Rock']
 PLACES = ['Home Office', 'Dog Park', 'Fallout Shelter', 'Laundromat', 'Tree House', '4-Star Restaurant', 'Motel 6']
-WHEN = ['Next Week', 'Tomorrow', 'Immediately', 'In Under 20 Minutes']
+WHEN = ['Next Week', 'Tomorrow', 'Immediately', 'In Under 20 Minutes', 'On Your Only Day Off This Week']
 PEOPLE = ['Mother of 12', 'Former Golf Caddy', 'Palentologist', 'Self-Identified Extrovert']
 
 
